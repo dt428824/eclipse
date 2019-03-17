@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Varanasi
+ *
+ */
+module MyProject {
+}
